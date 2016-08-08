@@ -14,6 +14,7 @@
 		5584D77E1D57F09800395185 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5584D77C1D57F09800395185 /* LaunchScreen.storyboard */; };
 		5584D7891D57F09800395185 /* WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5584D7881D57F09800395185 /* WeatherTests.swift */; };
 		5584D7941D57F09900395185 /* WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5584D7931D57F09900395185 /* WeatherUITests.swift */; };
+		5584D7A41D57F2DF00395185 /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5584D7A31D57F2DF00395185 /* bg.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5584D78F1D57F09900395185 /* WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5584D7931D57F09900395185 /* WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherUITests.swift; sourceTree = "<group>"; };
 		5584D7951D57F09900395185 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5584D7A31D57F2DF00395185 /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bg.jpg; path = Assets.xcassets/bg.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		5584D7721D57F09800395185 /* Weather */ = {
 			isa = PBXGroup;
 			children = (
+				5584D7A31D57F2DF00395185 /* bg.jpg */,
 				5584D7731D57F09800395185 /* AppDelegate.swift */,
 				5584D7751D57F09800395185 /* ViewController.swift */,
 				5584D7771D57F09800395185 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5584D7A41D57F2DF00395185 /* bg.jpg in Resources */,
 				5584D77E1D57F09800395185 /* LaunchScreen.storyboard in Resources */,
 				5584D77B1D57F09800395185 /* Assets.xcassets in Resources */,
 				5584D7791D57F09800395185 /* Main.storyboard in Resources */,
